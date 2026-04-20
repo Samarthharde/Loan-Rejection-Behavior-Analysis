@@ -67,7 +67,7 @@ Core risk analysis layer:
 * Debt-to-Income (DTI) impact
 * Risk Score vs Financial Behavior
 * High-Risk customer identification
-![Credit & Risk Intelligence](07_Dashboard/Images/D1.png)
+![Credit & Risk Intelligence](Images/Credit_&_Risk_Intelligence.png)
 
 ---
 
