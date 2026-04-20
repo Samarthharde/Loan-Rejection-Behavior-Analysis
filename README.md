@@ -69,6 +69,9 @@ Core risk analysis layer:
 * High-Risk customer identification
 ![Credit & Risk Intelligence](Images/Credit_&_Risk_Intelligence.png)
 
+
+📄 [Full Dashboard PDF — all four pages](07_Dashboard/Dashboard.pdf)
+
 ---
 
 ## 📈 Key Findings
