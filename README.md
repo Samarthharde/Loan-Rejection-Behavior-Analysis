@@ -55,8 +55,8 @@ High-level overview of loan performance:
 * Total Applications
 * Approval vs Rejection
 * Approval Rate
-* Loan distribution by purpose and region
-
+* Loan distribution by purpose and region 
+![Executive Summary](07_Dashboard/Images/D1.png)
 ---
 
 ### 2. Credit & Risk Intelligence
@@ -67,7 +67,7 @@ Core risk analysis layer:
 * Debt-to-Income (DTI) impact
 * Risk Score vs Financial Behavior
 * High-Risk customer identification
-
+![Credit & Risk Intelligence](07_Dashboard/Images/D1.png)
 
 ---
 
