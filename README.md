@@ -70,7 +70,7 @@ Core risk analysis layer:
 ![Credit & Risk Intelligence](Images/Credit_&_Risk_Intelligence.png)
 
 
-📄 [Full Dashboard PDF — all four pages](07_Dashboard/Dashboard.pdf)
+📄 [Full Dashboard PDF — all four pages](Dashboard.pdf.pdf)
 
 ---
 
