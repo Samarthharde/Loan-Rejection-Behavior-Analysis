@@ -56,7 +56,7 @@ High-level overview of loan performance:
 * Approval vs Rejection
 * Approval Rate
 * Loan distribution by purpose and region 
-![Executive Summary](07_Dashboard/Images/D1.png)
+![Executive Summary](Images/Executive_Summary.png)
 ---
 
 ### 2. Credit & Risk Intelligence
